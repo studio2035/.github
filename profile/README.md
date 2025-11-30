@@ -1,6 +1,6 @@
 # hai haiii ✨
 **i'm ash!** – web designer, shortcut hacker, and macOS app enjoyer 🍎✨
-#### [say hi to my site](https://asboy2035.com)
+#### [say hi to my site](https://a35.dev)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=studio2035&theme=tokyonight&layout=compact&hide_border=true" alt="Top Langs" />
 
