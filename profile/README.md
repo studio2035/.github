@@ -1,4 +1,4 @@
-this is my org account. for all my personal repos, go [here](https://github.com/asboy2035)!
+this is my org account. for all my personal repos, go [here](https://github.com/a35hie)!
 
 # hai haiii ✨
 **i'm ash!** - web designer, shortcut hacker, and macOS app enjoyer.
